@@ -1,0 +1,7 @@
+{
+  "name": "blind-book",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
